@@ -1,0 +1,118 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(244, 243, 248);
+}
+.Head{
+ position: relative;
+    display: flex;
+    justify-content: baseline;
+    /* border:1px solid red;  */
+    width: 100%;
+    height: 85px;
+    background-color:#385898;
+   
+}
+.Center{
+    position: absolute;
+ width:1150px;
+height: 75px;
+display: flex;
+justify-content: space-between;
+background-color:#385898;
+padding-bottom: 13px 0px 0px;
+margin:0px 60px;
+/* border: 2px solid red; */
+}
+.facebook
+{
+    margin-left:100px;
+  font-weight: bold;
+    font-size: 40px;
+    background-color:#385898;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    /* border:2px solid chartreuse; */
+}
+
+
+.Top-Rght
+{
+    /* margin-top: 10px; */
+    /* padding: 2px; */
+    height:70%;
+    width:50%;
+  float: right;
+  display: flex;
+  justify-content:flex-end;
+  background-color:#385898;
+  margin-top: 2px;
+  /* border: 2px solid rgba(11, 165, 45, 0.61); */
+  
+}
+.Left{
+    display: flex;
+    justify-content: space-between;
+    background-color:#385898;
+    /* border: 2px solid red;  */
+    width: 450px;
+    margin-top: -2px;
+
+}
+.Mob{
+    background-color:#385898;
+    display: flex;
+    flex-direction: column;
+}
+.Pass{
+    display: flex;
+    flex-direction: column;
+    background-color:#385898;
+}
+.btn{
+    margin-top: 37px;
+    margin-right: 3px;
+    /* border: 2px solid rgb(206, 17, 190); */
+    color:rgb(247, 246, 246);
+font-size: 12px;
+background-color: #4267B2;
+width:50px;border-radius: 3px; height:21px;
+border: transparent;
+
+/* color: #4267B2; */
+
+}
+.Create{
+display:felx;
+justify-content: end;
+width:600px;
+height:600px;
+transform:translate(740px,0px);
+font-size:large;
+padding: auto;
+color:rgb(20, 19, 19);
+/* border: 2px solid cyan;    */
+}
+img{
+    height: 250px;
+    width:450px;
+    transform: translateY(-650px) translateX(200px);
+   /* border: 2px solid gray;  */
+
+}
+#Test_DatetimeLocal
+{
+    padding-top: 0%;
+}
+
+.btn1
+{
+    color:rgb(247, 246, 246);
+    font-size: large;
+    background-color: rgb(55, 155, 35);
+    border-radius: 5px;
+    font-size: 15px;
+    height: 35px;
+    width: 180px;
+    border:transparent
+}
