@@ -1,0 +1,122 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(244, 243, 248);
+}
+.Top{
+    width:1200px;
+    height:720px;
+    /* border:2px solid blue; */
+    margin-left: 120px;
+}
+#one{
+font-size: 50px;
+color: #1877f2;
+font-weight:bolder;
+margin-top: 190px;
+margin-left: 60px;
+font-family: 'Poppins', sans-serif;
+}
+#two
+{
+    margin-left: 57px;
+    font-size: 28px; 
+    font-weight:bold;
+    color: #1C1E21;
+margin-top: -53px;
+font-family: 'Nunito Sans', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+
+}
+.Login{
+    /* border: 2px solid blue; */
+    border-radius: 10px;
+    width:370px;
+    height: 335px;
+    margin-left: 620px;
+    transform: translate(0px,-250px);
+    padding: 15px;
+    background-color: white;
+  box-shadow: 2px 2px 2px 2px rgb(221, 214, 214);;
+}
+.Login1{
+    background-color: white;
+/* border: 2px solid rgb(10, 9, 7);  */
+    display:flex ;
+    flex-direction:column ;
+    justify-content: space-between;
+    height:270px;
+}
+#logs{
+    height:45px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 15px;
+    opacity: 50%;
+    font-weight: normal;
+    /* border: 1px solid rgb(151, 31, 31);  */
+    background-color: white;
+
+
+}
+#plogs{
+height: 45px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 15px;
+    opacity: 50%;
+    /* margin-top: -72px;   */
+ background-color: white; 
+    /* border:0.5px solid black; */
+    margin-top: -15px; 
+    
+
+
+}
+.btn
+{
+    background-color: #1877f2;
+    color: white;
+
+    border-radius: 5px;
+    font-size: 20px;
+   height: 45px;
+   border: none;
+   margin-bottom: 25px;
+   
+    /* border: 3px solid blue; */
+}
+.Forgot{
+    /* margin-top: 10px; */
+    text-align:center;
+    background-color: white;
+    height:40px;
+    margin-bottom: 30px;
+    padding-top: 5px;
+    
+    /* margin-top: -25px; */
+     /* border:5px solid brown;   */
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.btn1
+{
+    text-align: center;
+    border:none;
+    font-size: 18px;
+    color: white;
+    background-color: #42B72A;
+    width: 192px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 90px;
+    /* margin-top: 60px; 
+    /* margin-bottom:25px; */
+    /* border:2px solid rgb(145, 52, 52);  */
+    margin-bottom: -60px;
+}
